@@ -1,0 +1,14 @@
+touch a.txt
+ls -l
+mv a.txt b.txt
+ls -l
+mkdir c
+mv b.txt c/d.txt
+ls -l
+ls -l c
+mv d.txt d.txt
+mv a.txt b.txt
+mv d.txt c
+mv c a.txt
+mv d.txt m/n.txt
+exit

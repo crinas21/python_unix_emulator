@@ -1,0 +1,46 @@
+root:/$ 
+root:/$ 
+-rw-r-- root a.txt
+root:/$ 
+root:/$ 
+-rw-rwx root a.txt
+root:/$ 
+root:/$ 
+------- root a.txt
+root:/$ 
+root:/$ 
+-rw---- root a.txt
+root:/$ 
+root:/$ 
+---x--- root a.txt
+root:/$ 
+root:/$ 
+-rwxrwx root a.txt
+root:/$ 
+root:/$ 
+root:/$ 
+root:/$ 
+root:/$ 
+-rwxrwx root a.txt
+drwxrwx root f1
+root:/$ 
+-rw-rw- root f11.txt
+drwxrwx root f2
+root:/$ 
+-rw-rw- root f22.txt
+root:/$ 
+chmod: Invalid mode
+root:/$ 
+chmod: Invalid mode
+root:/$ 
+chmod: Invalid mode
+root:/$ 
+chmod: Invalid mode
+root:/$ 
+chmod: No such file or directory
+root:/$   
+root:/$ 
+cohen:/$ 
+chmod: Operation not permitted
+cohen:/$ 
+bye, cohen

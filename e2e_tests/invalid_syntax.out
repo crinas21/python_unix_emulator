@@ -1,0 +1,30 @@
+root:/$
+pwd: Invalid syntax
+root:/$
+cd: Invalid syntax
+root:/$
+mkdir: Invalid syntax
+root:/$
+touch: Invalid syntax
+root:/$           
+cp: Invalid syntax
+root:/$
+mv: Invalid syntax
+root:/$
+rm: Invalid syntax
+root:/$
+rmdir: Invalid syntax
+root:/$  
+chmod: Invalid syntax
+root:/$ 
+chown: Invalid syntax
+root:/$
+adduser: Invaid syntax
+root:/$
+deluser: Invalid syntax
+root:/$
+su: Invalid syntax
+root:/$
+ls: Invalid syntax
+root:/$
+bye, root 

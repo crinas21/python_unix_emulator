@@ -1,0 +1,8 @@
+touch a.txt
+mkdir c
+ls -l
+rm a.txt
+rm c
+ls -l
+rm a.txt
+exit

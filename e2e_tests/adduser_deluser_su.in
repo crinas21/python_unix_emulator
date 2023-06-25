@@ -1,0 +1,13 @@
+adduser cohen
+adduser bob
+su cohen
+adduser jayden
+deluser bob
+su
+adduser cohen
+deluser jayden
+su jayden
+deluser bob
+deluser bob
+deluser root
+exit

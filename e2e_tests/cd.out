@@ -1,0 +1,14 @@
+root:/$ 
+root:/$ 
+root:/$ 
+root:/a$ 
+root:/a/b$ 
+root:/$ 
+cd: No such file or directory
+root:/$ 
+root:/a/b$ 
+root:/$ 
+root:/$ 
+cd: Destination is a file
+root:/$ 
+bye, root

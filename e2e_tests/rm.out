@@ -1,0 +1,14 @@
+root:/$ 
+root:/$ 
+root:/$ 
+-rw-r-- root a.txt
+drwxr-x root c
+root:/$ 
+root:/$ 
+rm: Is a directory
+root:/$ 
+drwxr-x root c
+root:/$ 
+rm: No such file
+root:/$ 
+bye, root

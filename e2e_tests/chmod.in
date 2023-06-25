@@ -1,0 +1,28 @@
+touch a.txt
+ls -l
+chmod o+wx a.txt
+ls -l
+chmod a-rwx a.txt
+ls -l
+chmod u=rw a.txt
+ls -l
+chmod u=x a.txt
+ls -l
+chmod uo+rwx a.txt
+ls -l
+mkdir -p f1/f2
+touch f1/f11.txt
+touch f1/f2/f22.txt
+chmod -r o+w f1
+ls -l
+ls -l f1
+ls -l f1/f2
+chmod g+x a.txt
+chmod u/w a.txt
+chmod o-m a.txt
+chmod u+=x a.txt
+chmod o+x b.txt
+adduser cohen
+su cohen
+chmod o+x a.txt
+exit

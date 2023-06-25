@@ -1,0 +1,31 @@
+root:/$ 
+root:/$ 
+root:/$ 
+drwxrwx root /
+root:/$ 
+cohen:/$ 
+cohen:/$ 
+cohen:/$ 
+drw-r-x cohen folder
+cohen:/$ 
+cd: Permission denied
+cohen:/$ 
+mkdir: Permission denied
+cohen:/$  
+touch: Permission denied
+cohen:/$ 
+cohen:/$ 
+dr-xr-x cohen folder
+cohen:/$ 
+mkdir: Permission denied
+cohen:/$ 
+touch: Permission denied
+cohen:/$ 
+cohen:/$ 
+cohen:/$ 
+cohen:/$ 
+root:/$ 
+-rw-r-- cohen file
+drwxr-x cohen folder2
+root:/$ 
+bye, root

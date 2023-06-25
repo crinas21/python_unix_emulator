@@ -1,0 +1,13 @@
+touch a.txt
+ls -l
+cp a.txt b.txt
+ls -l
+mkdir c
+cp b.txt c/d.txt
+ls -l c
+cp a.txt a.txt
+cp z.txt y.txt
+cp a.txt c
+cp c z.txt
+cp a.txt m/n.txt
+exit

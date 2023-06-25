@@ -1,0 +1,14 @@
+mkdir -p a/b
+ls -l
+ls -l a
+rmdir a
+rmdir a/b
+cd a
+rmdir /a
+cd /
+rmdir a
+ls -l
+rmdir a
+touch a.txt
+rmdir a.txt
+exit

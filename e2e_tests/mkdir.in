@@ -1,0 +1,12 @@
+mkdir -p a/b
+ls -l
+ls -l a/b
+mkdir -p a/b/c
+ls -l a/b
+mkdir -p a/b/c
+ls -l a/b
+mkdir a
+mkdir a/c/d
+mkdir a/d
+ls -l a
+exit

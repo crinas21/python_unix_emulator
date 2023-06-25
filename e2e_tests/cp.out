@@ -1,0 +1,23 @@
+root:/$ 
+root:/$ 
+-rw-r-- root a.txt
+root:/$ 
+root:/$ 
+-rw-r-- root a.txt
+-rw-r-- root b.txt
+root:/$ 
+root:/$ 
+root:/$ 
+-rw-r-- root d.txt
+root:/$ 
+cp: File exists
+root:/$ 
+cp: No such file
+root:/$ 
+cp: Destination is a directory
+root:/$ 
+cp: Source is a directory
+root:/$ 
+cp: No such file or directory
+root:/$ 
+bye, root

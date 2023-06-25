@@ -1,0 +1,10 @@
+touch a.txt
+ls -l
+touch a.txt
+ls -l
+touch b/c.txt
+mkdir b
+ls -l
+touch b/c.txt
+ls -l b
+exit

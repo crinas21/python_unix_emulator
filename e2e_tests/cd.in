@@ -1,0 +1,11 @@
+mkdir a
+mkdir a/b
+cd a
+cd b
+cd /
+cd b
+cd a/b
+cd /
+touch file
+cd file
+exit

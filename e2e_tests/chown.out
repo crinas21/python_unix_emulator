@@ -1,0 +1,38 @@
+root:/$ 
+root:/$ 
+root:/$ 
+-rw-r-- root a.txt
+root:/$ 
+root:/$ 
+-rw-r-- bob a.txt
+root:/$ 
+root:/$ 
+root:/$ 
+root:/$ 
+-rw-r-- bob a.txt
+drwxr-x root f1
+root:/$ 
+-rw-r-- root f11.txt
+drwxr-x root f2
+root:/$ 
+-rw-r-- root f22.txt
+root:/$ 
+root:/$ 
+-rw-r-- bob a.txt
+drwxr-x bob f1
+root:/$ 
+-rw-r-- bob f11.txt
+drwxr-x bob f2
+root:/$ 
+-rw-r-- bob f22.txt
+root:/$ 
+root:/$ 
+bob:/$ 
+chown: Operation not permitted
+bob:/$ 
+root:/$ 
+chown: Invalid user
+root:/$ 
+chown: No such file or directory
+root:/$ 
+bye, root

@@ -1,0 +1,21 @@
+touch a.txt
+touch b.txt
+mkdir -p f1/f2
+ls -l
+ls -d -l
+ls -d -l /
+ls
+ls -a -l
+ls -a -l f1
+ls -d f1
+ls -d -l f1
+ls -d -l f1/f2
+cd f1
+ls -d -l f2
+chmod o+w .
+ls -d -l .
+cd /
+touch aa.txt
+ls
+ls -l
+exit

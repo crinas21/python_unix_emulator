@@ -1,0 +1,15 @@
+pwd a
+cd -a folder
+mkdir -p -a folder
+touch
+cp file1
+mv file1 file2 file3
+rm
+rmdir folder1 folder2
+chmod folder1
+chown fol:der
+adduser "user
+deluser user"
+su us"er
+ls fol,der
+exit

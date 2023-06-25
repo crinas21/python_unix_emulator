@@ -1,0 +1,46 @@
+root:/$ 
+root:/$ 
+root:/$ 
+root:/$ 
+-rw-r-- root a.txt
+-rw-r-- root b.txt
+drwxr-x root f1
+root:/$ 
+drwxr-x root .
+root:/$ 
+drwxr-x root /
+root:/$ 
+a.txt b.txt f1 
+root:/$ 
+drwxr-x root .
+drwxr-x root ..
+-rw-r-- root a.txt
+-rw-r-- root b.txt
+drwxr-x root f1
+root:/$ 
+drwxr-x root .
+drwxr-x root ..
+drwxr-x root f2
+root:/$ 
+f1
+root:/$ 
+drwxr-x root f1
+root:/$ 
+drwxr-x root f1/f2
+root:/$ 
+root:/f1$ 
+drwxr-x root f2
+root:/f1$ 
+root:/f1$ 
+drwxrwx root .
+root:/f1$ 
+root:/$ 
+root:/$ 
+a.txt aa.txt b.txt f1 
+root:/$ 
+-rw-r-- root a.txt
+-rw-r-- root aa.txt
+-rw-r-- root b.txt
+drwxrwx root f1
+root:/$ 
+bye, root

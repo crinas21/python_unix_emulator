@@ -1,0 +1,17 @@
+root:/$ 
+root:/$ 
+-rw-r-- root a.txt
+root:/$ 
+root:/$ 
+-rw-r-- root a.txt
+root:/$ 
+touch: Ancestor directory does not exist
+root:/$ 
+root:/$ 
+-rw-r-- root a.txt
+drwxr-x root b
+root:/$ 
+root:/$ 
+-rw-r-- root c.txt
+root:/$ 
+bye, root

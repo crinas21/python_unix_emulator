@@ -1,0 +1,16 @@
+adduser cohen
+chmod o+w /
+su cohen
+mkdir folder
+touch folder/file
+chmod u=wx folder
+ls -l
+ls folder
+ls folder/file
+chmod u=rw folder
+ls -l
+ls folder/file
+chmod u=rx folder
+ls folder
+ls folder/file
+exit

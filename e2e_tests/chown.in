@@ -1,0 +1,20 @@
+touch a.txt
+adduser bob
+ls -l
+chown bob a.txt
+ls -l
+mkdir -p f1/f2
+ls -l
+ls -l f1
+ls -l f1/f2
+chown -r bob f1
+ls -l
+ls -l f1
+ls -l f1/f2
+touch b.txt
+su bob
+chown bob b.txt
+su
+chown cohen a.txt
+chown bob c.txt
+exit
